@@ -1,5 +1,6 @@
 # weserve_company
 WESERVE
+
  Python was used in this project because it is a versatile programming language that can be used for a wide range of data engineering tasks, from data integration and transformation to ETL (Extract, Transform, Load) processes, data modeling, and more. It can also be used for merging datas, data analysis, and visualization, making it a one-stop solution for various data-related tasks.Moreover the dataset is relatively smaller in size
 
 TOOLS USED.
