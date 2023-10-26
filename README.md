@@ -23,7 +23,7 @@ RangeIndex: 600 entries, 0 to 599
 
 Data columns (total 5 columns):
 
- #   Column                 Non-Null Count  Dtype 
+ #Column                 Non-Null Count  Dtype 
  
 ---  ------                 --------------  ----- 
 
