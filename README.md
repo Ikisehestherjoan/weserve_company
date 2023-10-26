@@ -1,7 +1,16 @@
 # weserve_company
 WESERVE
+BUSINESS PROBLEM:
+WeServe operates as a call service agency that specializes in providing outsourced customer service personnel to multiple companies.
+These customer service agents work from a centralized call center where they handle incoming and outgoing customer calls. 
+Their primary responsibilities include addressing customer complaints and gathering feedback on products and services purchased from different companies.
 
- Python was used in this project because it is a versatile programming language that can be used for a wide range of data engineering tasks, from data integration and transformation to ETL (Extract, Transform, Load) processes, data modeling, and more. It can also be used for merging datas, data analysis, and visualization, making it a one-stop solution for various data-related tasks.Moreover the dataset is relatively smaller in size
+All interactions with customers are documented and recorded in a call log sheet, with additional information being stored in a call details sheet.
+To gain a deeper understanding of the call agents' activities, the customer service managers have made available a sample of these sheets for your analysis.
+
+ Python was used in this project because it is a versatile programming language that can be used for a wide range of data engineering tasks, 
+ from data integration and transformation to ETL (Extract, Transform, Load) processes, data modeling, and more. It can also be used for merging datas, 
+ data analysis, and visualization, making it a one-stop solution for various data-related tasks.Moreover the dataset is relatively smaller in size
 
 TOOLS USED.
 
@@ -122,6 +131,17 @@ Design and manage data storage solutions using Python and libraries
 ETL Processes:
 
 Develop and maintain ETL (Extract, Transform, Load) pipelines using Python to automate the movement of data from source systems to a data base
+
+SOME KPI USE CASE 
+
+- Total Number of Calls Resolved vs Total Number of Calls Received
+ 
+- Total Number of calls received vs Total Number of calls assigned/resolved
+ 
+- The total and average call duration for each agent, and the grade level of these agents.
+ 
+- The earliest and latest closed and resolved calls, and the grade levels of the agents who resolved these cases.
+
 
 
 
