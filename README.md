@@ -1,6 +1,7 @@
 # weserve_company
 WESERVE
-BUSINESS PROBLEM:
+PROBLEM STATEMENT:
+
 WeServe operates as a call service agency that specializes in providing outsourced customer service personnel to multiple companies.
 These customer service agents work from a centralized call center where they handle incoming and outgoing customer calls. 
 Their primary responsibilities include addressing customer complaints and gathering feedback on products and services purchased from different companies.
@@ -17,6 +18,10 @@ TOOLS USED.
 PYTHON
 
 PANDAS
+
+PSYCOPG2
+
+SQLALCHEMY
 
 MATPLOTLIB
 
@@ -56,7 +61,7 @@ RangeIndex: 600 entries, 0 to 599
 
 Data columns (total 7 columns):
 
- #Column                     Non-Null Count  Dtype  
+ # Column                     Non-Null Count  Dtype  
  
 ---  ------                     --------------  -----  
 
