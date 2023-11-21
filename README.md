@@ -145,10 +145,8 @@ SOME KPI USE CASE
  
 - The total and average call duration for each agent, and the grade level of these agents.
  
-- The earliest and latest closed and resolved calls, and the grade levels of the agents who resolved these cases.
-- 
-
-NOTE: THE DATAWAREHOUSE/DARALAKE  STORAGE  WAS OMMITTED BUT WILL BE COMPLETED LATER ON.
+- The earliest and latest closed and resolved calls, and the grade levels of the agents who resolved these cases etc
+  
 
 
 
